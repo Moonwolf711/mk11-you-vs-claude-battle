@@ -2,6 +2,10 @@
 
 Bidirectional voice + vision + MIDI bridge that lets an LLM agent play Mortal Kombat 11 (or any keyboard-driven game) against a human in real time.
 
+![Sub-Zero wins. Again. The AI gets the rematch button.](docs/gameplay.png)
+
+*Sub-Zero (the human) wins. Again. The AI gets the rematch button.*
+
 **Created by Tyler Yianacopolus (Moonwolf711)** — 2026-05-19.
 Built in a single session. Concept, architecture, and direction by Tyler. Implementation done by Claude under his direction. All rights and credit belong to Tyler.
 
